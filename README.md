@@ -22,7 +22,7 @@ The `main()` function serves as the entry point. It sets the `videoId` variable 
 
 2. **Install Google Apps Script**: Copy the provided code into a Google Apps Script project. Save the project and give it an appropriate name.
 
-3. **Replace Placeholder**: Replace `"Ud2uQuFNlb4"` in the `videoId` variable with the ID of the target YouTube video.
+3. **Replace Placeholder**: Replace `"VIDEOID"` in the `videoId` variable with the ID of the target YouTube video.
 
 4. **Set Up Trigger**: To automate the script, set up a trigger in Google Apps Script. Go to the "Triggers" menu, click on "Add Trigger", select the `main()` function, choose the event type (e.g., time-driven), and set the desired interval for the script to run.
 
