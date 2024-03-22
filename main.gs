@@ -1,5 +1,5 @@
 function main() {
-  var videoId = "Ud2uQuFNlb4";
+  var videoId = "VIDEOID";
   var videoData = getVideoDetails(videoId);
   
   if(!validate(videoData)){
